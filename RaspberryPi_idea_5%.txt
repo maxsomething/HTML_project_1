@@ -1,0 +1,3 @@
+A Raspberry pi can be a basis for a protable computer with a unique, fully customized, set-up. honestly I am looking
+forward to figuring how to make something like that for myself in the near future. 
+https://www.makeuseof.com/tag/different-uses-raspberry-pi/
